@@ -5,9 +5,6 @@ module.exports = {
     title: 'Mekuanent Birara ',
     description:
       'MekuanentBirara  is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://MekuanentBirara.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@b7',
   },
   pathPrefix: "/mekuanent-birara",
   plugins: [
