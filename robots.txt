@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mekuanentbirara.com/mekuanent-birara/sitemap/sitemap-index.xml
+Host: https://mekuanentbirara.com
