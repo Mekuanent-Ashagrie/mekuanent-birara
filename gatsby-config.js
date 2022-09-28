@@ -4,7 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Mekuanent Birara ',
     description:
-      'MekuanentBirara  is a tech consultant focused on bringing new business values through digital transformations.',
+    'MekuanentBirara  is a tech consultant focused on bringing new business values through digital transformations.',
+    siteUrl: 'https://mekuanent-ashagrie.github.io/mekuanent-birara/', // No trailing slash allowed!
+    image: '/favicon-32x32.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: 'MekuanentBirara',
   },
   pathPrefix: "/mekuanent-birara",
   plugins: [
