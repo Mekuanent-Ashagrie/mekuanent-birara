@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Mekuanent Birara ',
     description:
-      'MekuanentBirara  is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'MekuanentBirara  is a tech consultant focused on bringing new business values through digital transformations.',
   },
   pathPrefix: "/mekuanent-birara",
   plugins: [
